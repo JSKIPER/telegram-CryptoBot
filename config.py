@@ -1,4 +1,4 @@
-token = "TOKEN"
+token = "aboba"
 url = "https://coinmarketcap.com/"
 headers = {
     "Accept": "*/*",
